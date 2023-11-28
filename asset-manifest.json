@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gyeongbokgung/static/css/main.6bc029d0.css",
-    "main.js": "/Gyeongbokgung/static/js/main.234d1625.js",
+    "main.js": "/Gyeongbokgung/static/js/main.77970dac.js",
     "static/media/TEAM3.glb": "/Gyeongbokgung/static/media/TEAM3.5a80768b3f70c0bf1ac1.glb",
     "static/media/img4.jpg": "/Gyeongbokgung/static/media/img4.e7d1434865c02b95c2b7.jpg",
     "static/media/galleryImg1.png": "/Gyeongbokgung/static/media/galleryImg1.302e1727b2bb075c4461.png",
@@ -24,10 +24,10 @@
     "static/media/mainText2.png": "/Gyeongbokgung/static/media/mainText2.15c7128f31413c207202.png",
     "index.html": "/Gyeongbokgung/index.html",
     "main.6bc029d0.css.map": "/Gyeongbokgung/static/css/main.6bc029d0.css.map",
-    "main.234d1625.js.map": "/Gyeongbokgung/static/js/main.234d1625.js.map"
+    "main.77970dac.js.map": "/Gyeongbokgung/static/js/main.77970dac.js.map"
   },
   "entrypoints": [
     "static/css/main.6bc029d0.css",
-    "static/js/main.234d1625.js"
+    "static/js/main.77970dac.js"
   ]
 }
